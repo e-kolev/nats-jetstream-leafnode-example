@@ -1,0 +1,22 @@
+{
+    "name": "tickets-1",
+    "subjects": [
+      "tickets-1.>"
+    ],
+    "retention": "interest",
+    "max_consumers": -1,
+    "max_msgs_per_subject": -1,
+    "max_msgs": -1,
+    "max_bytes": -1,
+    "max_age": 0,
+    "max_msg_size": -1,
+    "storage": "file",
+    "discard": "new",
+    "num_replicas": 3,
+    "duplicate_window": 120000000000,
+    "sealed": false,
+    "deny_delete": false,
+    "deny_purge": false,
+    "allow_rollup_hdrs": false
+}
+  
