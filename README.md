@@ -14,7 +14,7 @@
 >Simple guide on NATS JetStream with Leafnodes
 
 # 🗺️ Topology diagram
-![](img/nats-streams-topology.png)
+![](img/nats-streams-topology-light.png)
 
 The specific of the projects requres us to place three three-node clusters in different locations and isolate each cluster in own JetStream domain.
 
